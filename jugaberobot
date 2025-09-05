@@ -1,0 +1,9 @@
+{
+    "JugaEnable": false,
+    "JugaLang": ["Russian"],
+    "JugaTime": ["Yekaterinburg"],
+    "JugaLink": 
+    [ 
+          { "Lang":"Russian", "Links": [""]}
+    ]
+ }
