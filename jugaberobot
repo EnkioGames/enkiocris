@@ -1,9 +1,9 @@
 {
-    "JugaEnable": false,
-    "JugaLang": ["Russian"],
-    "JugaTime": ["Yekaterinburg"],
+    "JugaEnable": true,
+    "JugaLang": ["Spanish"],
+    "JugaTime": ["Buenos_Aires", "Argentina", "Tijuana", "Mazatlan", "Ciudad_Juarez","Hermosillo", "Ojinaga", "Chihuahua", "Matamoros", "Mexico_City", "Cancun", "Santiago" , "Easter", "Punta_Arenas"],
     "JugaLink": 
     [ 
-          { "Lang":"Russian", "Links": [""]}
+          { "Lang":"Spanish", "Links": ["https://1wwpdx.com/casino/list?open=register"]}
     ]
  }
