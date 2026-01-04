@@ -1,11 +1,9 @@
 {
-    "FlagEnable": false,
-    "FlagLang": ["Russian"],
-    "FlagTime": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
-    "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
-    "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
+    "FlagEnable": true,
+    "FlagLang": ["Spanish"],
+    "FlagTime": ["Tijuana", "Mazatlan", "Ciudad_Juarez","Hermosillo", "Ojinaga", "Chihuahua", "Matamoros", "Mexico_City", "Cancun", "Santiago" , "Easter", "Punta_Arenas"],
     "FlagLinks": 
     [ 
-          { "Lang":"Russian", "Links": [""]}
+          { "Lang":"Spanish", "Links": ["https://lkpf.pro/24c1ae"]}
     ]
  }
